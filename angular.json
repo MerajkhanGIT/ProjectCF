@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ProjectCF"
+    }
+  },
+  "defaultProject": "ProjectCF",
+  "cli": {
+    "analytics": "6fe1d4a4-b522-4f73-bc31-7364b58028d5"
+  }
 }
